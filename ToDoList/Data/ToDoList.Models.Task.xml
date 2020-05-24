@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTask xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Task>
+    <Title>Implement tags</Title>
+    <Description>Implement tags in BaseObjectModel;
+Modify Tags property to take references into account</Description>
+    <Done>true</Done>
+    <Tags>
+      <string>tag</string>
+      <string>base</string>
+    </Tags>
+    <Priority>Urgent Important</Priority>
+  </Task>
+  <Task>
+    <Title>Tree view</Title>
+    <Description>Try to make tree view for all tags</Description>
+    <Done>false</Done>
+    <Tags>
+      <string>tag</string>
+      <string>xaml</string>
+      <string>ViewModel</string>
+    </Tags>
+    <Priority>Important</Priority>
+  </Task>
+  <Task>
+    <Title>Test in XAML</Title>
+    <Description>Implement simple textbox to show the tags</Description>
+    <Done>true</Done>
+    <Tags>
+      <string>xaml</string>
+      <string>tags</string>
+    </Tags>
+    <Priority>Important</Priority>
+  </Task>
+  <Task>
+    <Title>Tag Converter</Title>
+    <Description>Implement class converter to convert between tag collection and tags as string</Description>
+    <Done>true</Done>
+    <Tags>
+      <string>tag</string>
+      <string>steing</string>
+      <string>converter</string>
+    </Tags>
+    <Priority>Important</Priority>
+  </Task>
+  <Task>
+    <Title>Implement Sorting</Title>
+    <Description>Sorting of the list by priority</Description>
+    <Done>true</Done>
+    <Tags>
+      <string>sort</string>
+      <string>priority</string>
+    </Tags>
+    <Priority>Important</Priority>
+  </Task>
+  <Task>
+    <Title>Sort Test Important</Title>
+    <Description>Test Task with Important priority</Description>
+    <Done>false</Done>
+    <Tags>
+      <string>test</string>
+      <string>sort</string>
+    </Tags>
+    <Priority>Important</Priority>
+  </Task>
+  <Task>
+    <Title>Sort Test Urgent</Title>
+    <Description>Test Task with URGENT priority</Description>
+    <Done>false</Done>
+    <Tags>
+      <string>test </string>
+      <string>sort </string>
+      <string>dfasda</string>
+    </Tags>
+    <Priority>Urgent</Priority>
+  </Task>
+</ArrayOfTask>

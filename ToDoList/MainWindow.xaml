@@ -1,0 +1,28 @@
+﻿<Window x:Class="ToDoList.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:views="clr-namespace:ToDoList.Views"
+        Title="ToDoList"
+        Height="350"
+        Width="525"
+        ResizeMode="NoResize"
+        Closing="Window_Closing">
+
+    <TabControl>
+        <TabItem Header="Tasks">
+            <views:TasksView/>
+        </TabItem>
+        <TabItem Header="Meetings">
+            <views:MeetingView/>
+        </TabItem>
+        <TabItem Header="Goals">
+            <views:GoalsView/>
+        </TabItem>
+        <TabItem Header="Birthdays">
+            <views:BirthdayView/>
+        </TabItem>
+        <TabItem Header="Notes">
+            <views:NotesView/>
+        </TabItem>
+    </TabControl>
+</Window>

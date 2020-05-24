@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfMeeting xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Meeting>
+    <Title>Среща с Тошо</Title>
+    <Description>Add Description</Description>
+    <Done>true</Done>
+    <Tags />
+    <Duration>0</Duration>
+    <StartTime>18:00</StartTime>
+    <EventDate>2013-12-06T00:00:00+02:00</EventDate>
+  </Meeting>
+  <Meeting>
+    <Title>Среща с Пешо</Title>
+    <Description>Add Description</Description>
+    <Done>true</Done>
+    <Tags />
+    <Duration>0</Duration>
+    <StartTime>17:00</StartTime>
+    <EventDate>2013-12-07T00:00:00</EventDate>
+  </Meeting>
+  <Meeting>
+    <Title>Среща с Наско</Title>
+    <Description>Да ми даде 20-те лева</Description>
+    <Done>false</Done>
+    <Tags>
+      <string>GimmeMyMoneys</string>
+    </Tags>
+    <Duration>5</Duration>
+    <StartTime>17:45</StartTime>
+    <EventDate>2013-12-09T00:00:00</EventDate>
+  </Meeting>
+  <Meeting>
+    <Title>Среща с Иванина</Title>
+    <Description>Add Description</Description>
+    <Done>false</Done>
+    <Tags />
+    <Duration>0</Duration>
+    <StartTime>21:20</StartTime>
+    <EventDate>2013-12-09T00:00:00</EventDate>
+  </Meeting>
+  <Meeting>
+    <Title>Среща с Обама</Title>
+    <Description />
+    <Done>false</Done>
+    <Tags>
+      <string>dfasda </string>
+      <string>trsa</string>
+    </Tags>
+    <Duration>0</Duration>
+    <StartTime>15:15</StartTime>
+    <EventDate>2013-12-11T00:00:00</EventDate>
+  </Meeting>
+</ArrayOfMeeting>

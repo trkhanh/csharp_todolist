@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfGoal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Goal>
+    <Title>Work goals</Title>
+    <Description>Get a promotion by the end of Q1</Description>
+    <Done>false</Done>
+    <Tags>
+      <string>work</string>
+    </Tags>
+    <Priority>Important</Priority>
+    <EventDate>2014-03-31T00:00:00</EventDate>
+    <Subtasks>
+      <Goal>
+        <Title>Improve my English skills</Title>
+        <Description>Do a course in English to make yourself useful when buisiness is done with foreign companies.</Description>
+        <Done>false</Done>
+        <Tags>
+          <string>EnglishCourse</string>
+        </Tags>
+        <Priority>Important</Priority>
+        <EventDate>2013-12-06T00:00:00+02:00</EventDate>
+        <Subtasks />
+      </Goal>
+    </Subtasks>
+  </Goal>
+  <Goal>
+    <Title>Studies</Title>
+    <Description>Give my GPA a little boost by the end of this semester.</Description>
+    <Done>false</Done>
+    <Tags>
+      <string>school</string>
+      <string>GPA</string>
+    </Tags>
+    <Priority>Important</Priority>
+    <EventDate>2014-02-05T00:00:00</EventDate>
+    <Subtasks>
+      <Goal>
+        <Title>Math</Title>
+        <Description>Ace my math test... shouldn't be that hard.</Description>
+        <Done>false</Done>
+        <Tags>
+          <string>math</string>
+        </Tags>
+        <Priority>None</Priority>
+        <EventDate>2013-12-06T00:00:00+02:00</EventDate>
+        <Subtasks />
+      </Goal>
+      <Goal>
+        <Title>Biology</Title>
+        <Description>Get the time to catch up on the lessons. There's no time to waste anymore.</Description>
+        <Done>false</Done>
+        <Tags>
+          <string>biology</string>
+        </Tags>
+        <Priority>Urgent</Priority>
+        <EventDate>2013-12-06T00:00:00+02:00</EventDate>
+        <Subtasks />
+      </Goal>
+    </Subtasks>
+  </Goal>
+  <Goal>
+    <Title>Telerik</Title>
+    <Description>Finish the teamwork project.</Description>
+    <Done>false</Done>
+    <Tags>
+      <string>Telerik </string>
+      <string>teamwork</string>
+    </Tags>
+    <Priority>None</Priority>
+    <EventDate>2013-12-09T00:00:00</EventDate>
+    <Subtasks>
+      <Goal>
+        <Title>Meetings</Title>
+        <Description>Do regular meetings to make sure everyone's on the same page about where the projects going.</Description>
+        <Done>false</Done>
+        <Tags />
+        <Priority>Important</Priority>
+        <EventDate>2013-12-09T00:00:00</EventDate>
+        <Subtasks />
+      </Goal>
+      <Goal>
+        <Title>Skype chat</Title>
+        <Description>Stay in contact to make sure you know what's going on.</Description>
+        <Done>false</Done>
+        <Tags />
+        <Priority>Important</Priority>
+        <EventDate>2013-12-09T00:00:00</EventDate>
+        <Subtasks />
+      </Goal>
+      <Goal>
+        <Title>Work</Title>
+        <Description>Do all you can.</Description>
+        <Done>false</Done>
+        <Tags />
+        <Priority>Urgent</Priority>
+        <EventDate>2013-12-09T00:00:00</EventDate>
+        <Subtasks />
+      </Goal>
+    </Subtasks>
+  </Goal>
+</ArrayOfGoal>

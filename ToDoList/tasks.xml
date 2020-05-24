@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tasks>
+  <task> <!-- Test TASK # 01 -->
+    <title>Dishes!!</title>
+    <description>Do da frikin' dishes! They've been in the sink for a week now D:</description>
+    <priority>1</priority>
+    <tags>
+      <tag>home</tag>
+	  <tag>personal</tag>
+    </tags>
+  </task>
+  <task> <!-- Test TASK # 02 -->
+    <title>Walk the dog!</title>
+    <description>He seems to have forgotten how to walk... the poor thing.</description>
+    <priority>2</priority>
+    <tags>
+	  <tag>home</tag>
+    </tags>
+  </task>
+  <task> <!-- Test TASK # 03 -->
+    <title>Empty...</title>
+    <description>It would appeare I have misplaced my lunch... I find my lunchbox once more empty (twelfth day in a row). I am beginning to doubt Leroy's honesty</description>
+    <priority>0</priority>
+    <tags>
+      <tag>personal</tag>
+      <tag>work</tag>
+    </tags>
+  </task>
+  <task> <!-- Test TASK # 04 -->
+    <title>Get the cat neutered.</title>
+    <description>There are enough stray cats in the neighbourhood already.</description>
+    <priority>0</priority>
+    <tags>
+	  <tag>home</tag>
+    </tags>
+  </task>
+
+  <goal> <!-- Test GOAL # 01 -->
+    <title>Raise my GPA</title>
+    <description>I should really try and raise my GPA this semester</description>
+    <priority>1</priority>
+    <subtasks>
+      <subtask>
+        <title>Math</title>
+        <description>Ace the math test</description>
+        <priority>2</priority>
+        <tags>
+          <tag>school</tag>
+          <tag>test</tag>
+          <tag>math</tag>
+        </tags>
+      </subtask>
+      <subtask>
+        <title>English</title>
+        <description>Spend a little bit more time on that essay</description>
+        <priority>1</priority>
+        <tags>
+          <tag>school</tag>
+          <tag>english</tag>
+        </tags>
+      </subtask>
+    </subtasks>
+	<enddate>2014, 1, 31</enddate>
+    <tags>
+      <tag>school</tag>
+      <tag>personal</tag>
+      <tag>gpa</tag>	  
+    </tags>
+  </goal>
+  <goal> <!-- Test GOAL # 02 -->
+    <title>Employee of the month!</title>
+    <description>Impress the new manager before New Year</description>
+    <priority>0</priority>
+    <subtasks>
+      <subtask>
+        <title>Sales</title>
+        <description>Get into the top 10 for sales numbers</description>
+        <priority>2</priority>
+        <tags>
+          <tag>work</tag>
+        </tags>
+      </subtask>
+    </subtasks>
+	<enddate>2013, 12, 31</enddate>
+    <tags>
+      <tag>work</tag>
+      <tag>personal</tag>
+    </tags>
+  </goal>
+  <goal> <!-- Test GOAL # 03 -->
+    <title>Fix the roof leak</title>
+    <description>It would appeare rain is comming next week. I HAVE to fix the roof by then</description>
+    <priority>2</priority>
+    <subtasks></subtasks>
+	<enddate>2013, 11, 25</enddate>
+    <tags>
+      <tag>home</tag>
+      <tag>URGENT!!</tag>
+    </tags>
+  </goal>
+  <goal> <!-- Test GOAL # 04 -->
+    <title>Get my game on</title>
+    <description>Get the PS4 by the end of the year.</description>
+    <priority>0</priority>
+    <subtasks></subtasks>
+	<enddate>2013, 11, 25</enddate>
+    <tags>
+      <tag>personal</tag>
+      <tag>home</tag>
+    </tags>
+  </goal>
+<goal>
+    <title>Goal Title</title>
+    <description>Goal description</description>
+    <priority>1</priority>
+    <subtasks>
+      <subtask>
+        <title>Test task</title>
+        <description>This is the first test task form xml</description>
+        <priority>2</priority>
+        <tags>
+          <tag>test</tag>
+          <tag>xml</tag>
+          <tag>db</tag>
+        </tags>
+      </subtask>
+      <subtask>
+        <title>Test task02</title>
+        <description>This the second test task form xml</description>
+        <priority>1</priority>
+        <tags>
+          <tag>test</tag>
+          <tag>prioritized</tag>
+          <tag>db</tag>
+        </tags>
+      </subtask>
+    </subtasks>
+    <tags>
+      <tag>test</tag>
+      <tag>xml</tag>
+      <tag>db</tag>
+    </tags>
+  </goal>
+  <goal>
+    <title>Goal Title</title>
+    <description>Goal description</description>
+    <priority>1</priority>
+    <subtasks>
+      <subtask>
+        <title>Test task</title>
+        <description>This is the first test task form xml</description>
+        <priority>2</priority>
+        <tags>
+          <tag>test</tag>
+          <tag>xml</tag>
+          <tag>db</tag>
+        </tags>
+      </subtask>
+      <subtask>
+        <title>Test task02</title>
+        <description>This the second test task form xml</description>
+        <priority>1</priority>
+        <tags>
+          <tag>test</tag>
+          <tag>prioritized</tag>
+          <tag>db</tag>
+        </tags>
+      </subtask>
+    </subtasks>
+    <tags>
+      <tag>test</tag>
+      <tag>xml</tag>
+      <tag>db</tag>
+    </tags>
+  </goal>
+  <task>
+    <title>Test task</title>
+    <description>This is the first test task form xml</description>
+    <priority>2</priority>
+    <tags>
+      <tag>test</tag>
+      <tag>xml</tag>
+      <tag>db</tag>
+    </tags>
+  </task>
+  <task>
+    <title>Test task02</title>
+    <description>This the second test task form xml</description>
+    <priority>1</priority>
+    <tags>
+      <tag>test</tag>
+      <tag>prioritized</tag>
+      <tag>db</tag>
+    </tags>
+  </task>
+  <task>
+    <title>Test addTask</title>
+    <description>This is test for proper adding task to DB</description>
+    <priority>3</priority>
+    <tags>
+      <tag>test</tag>
+      <tag>addTask</tag>
+    </tags>
+  </task>
+  <task>
+    <title>Test addTask</title>
+    <description>This is test for proper adding task to DB</description>
+    <priority>3</priority>
+    <tags>
+      <tag>test</tag>
+      <tag>addTask</tag>
+    </tags>
+  </task>
+</tasks>

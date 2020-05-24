@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNote xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Note>
+    <Title>doctor</Title>
+    <Description>Ivelina Stoyanova</Description>
+    <Done>false</Done>
+    <Tags />
+  </Note>
+  <Note>
+    <Title>MVVM</Title>
+    <Description>check it up</Description>
+    <Done>false</Done>
+    <Tags />
+  </Note>
+  <Note>
+    <Title>Reinstall Windows</Title>
+    <Description>try win 8</Description>
+    <Done>false</Done>
+    <Tags />
+  </Note>
+  <Note>
+    <Title>Two Steps From Hell</Title>
+    <Description>get 'Two Steps From Hell' by 'Strength Of A Thousand Men'... legally </Description>
+    <Done>false</Done>
+    <Tags />
+  </Note>
+</ArrayOfNote>

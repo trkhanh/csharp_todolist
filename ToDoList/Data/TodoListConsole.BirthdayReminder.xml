@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBirthdayReminder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BirthdayReminder>
+    <Title>NewItemasd</Title>
+    <Description>Enter Descriptionqwe</Description>
+    <Done>false</Done>
+    <Tags />
+    <Age>0</Age>
+    <BirthDate>0001-01-01T00:00:00</BirthDate>
+    <DateCreated>0001-01-01T00:00:00</DateCreated>
+  </BirthdayReminder>
+  <BirthdayReminder>
+    <Title>NewItem</Title>
+    <Description>Enter Description</Description>
+    <Done>false</Done>
+    <Tags />
+    <Age>0</Age>
+    <BirthDate>0001-01-01T00:00:00</BirthDate>
+    <DateCreated>0001-01-01T00:00:00</DateCreated>
+  </BirthdayReminder>
+  <BirthdayReminder>
+    <Title>NewItem</Title>
+    <Description>Enter Description</Description>
+    <Done>false</Done>
+    <Tags />
+    <Age>0</Age>
+    <BirthDate>0001-01-01T00:00:00</BirthDate>
+    <DateCreated>0001-01-01T00:00:00</DateCreated>
+  </BirthdayReminder>
+</ArrayOfBirthdayReminder>
